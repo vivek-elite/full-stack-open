@@ -1,0 +1,3 @@
+browser->server: HTTP POST with Form data https://studies.cs.helsinki.fi/exampleapp/new_note
+server->browser: Updated notes array
+server->browser: Redirect to notes page https://studies.cs.helsinki.fi/exampleapp/notes

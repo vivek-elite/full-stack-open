@@ -1,0 +1,2 @@
+browser->server: HTTP Get request for https://studies.cs.helsinki.fi/exampleapp/spa
+server->browser: The SPA page

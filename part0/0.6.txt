@@ -1,0 +1,4 @@
+
+browser->server: Ajax request for https://studies.cs.helsinki.fi/exampleapp/spa
+server->browser: Updated notes array
+server->browser: Refresh page https://studies.cs.helsinki.fi/exampleapp/notes
